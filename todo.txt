@@ -1,0 +1,6 @@
+Create an API to read stock prices for yesterday and previous day close
+
+create a bloomberg type news feed
+
+creata a twilio sms app that sends both feeds
+
